@@ -56,3 +56,5 @@ As of now (BETA), it contains:
 # So, how do I get it?
 
 Unfortunately, it has not yet released. However, I am actively working on it and planning to release it soon!
+
+When it is released, you may find it [here](https://terminite1.github.io/PopItTradingGUI/release.html)
