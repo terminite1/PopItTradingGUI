@@ -53,7 +53,7 @@ As of now (BETA), it contains:
 # - Other
 ```
 
-# So, how do I get it?
+### So, how do I get it?
 
 Unfortunately, it has not yet released. However, I am actively working on it and planning to release it soon!
 
